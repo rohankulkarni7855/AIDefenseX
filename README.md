@@ -232,7 +232,7 @@ Cybersecurity Enthusiast | Wazuh | Suricata | Python | Linux | Machine Learning
 
 Email: [rohankulkarni7855@gmail.com](mailto:rohankulkarni7855@gmail.com)
 
-LinkedIn: linkedin.com/in/rohan-kulkarni
+LinkedIn: [linkedin.com/in/rohan-kulkarni](https://www.linkedin.com/in/rohan-kulkarni-8796862b6)
 
 ---
 
