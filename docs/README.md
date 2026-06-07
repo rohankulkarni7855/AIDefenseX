@@ -4,4 +4,4 @@ Project documentation and architecture diagrams.
 
 The following diagram represents the Wazuh SIEM architecture used within the AIDefenseX project.
 
-![Architecture](docs/Wazuh_Architecture.png?raw=true)
+[Open Architecture Diagram](docs/Wazuh_Architecture.png)
